@@ -4,7 +4,7 @@
 	<img src="https://files.catbox.moe/w9aze9.png" alt="Image" width="100%" style="display: block; margin-top: 24px;">
 </p>
 
-<p <align=“center“ style="margin: 0; line-hight: 0;"> <div style="display: flex; justify-content: center; margin-top: 24px;">
+<p <align=“center“ style="margin: 0; line-hight: 0;" <div style="display: flex; justify-content: center; margin-top: 24px;">
 	<img src="https://files.catbox.moe/yn1sqv.png" alt="Image" width="40%" style="display: block;"> <img src="https://files.catbox.moe/2hy3uu.png" alt="Image" width="40%" style="display: block;">
 </div>
 
