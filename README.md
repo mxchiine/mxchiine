@@ -5,7 +5,7 @@
 </p>
 
 <div style="display: flex; justify-content: center; margin-top: 24px;">
-	<img src="https://files.catbox.moe/yn1sqv.png" alt="Image" width="50%" style="display: block;"> <img src="https://files.catbox.moe/2hy3uu.png" alt="Image" width="50%" style="display: block;">
+	<img src="https://files.catbox.moe/yn1sqv.png" alt="Image" width="40%" style="display: block;"> <img src="https://files.catbox.moe/2hy3uu.png" alt="Image" width="40%" style="display: block;">
 </div>
 
 <p align="center" style="display: flex; justify-content: center; gap: 24px;">
