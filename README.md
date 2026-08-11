@@ -6,7 +6,8 @@
 
 <p <align=“center“ style="margin: 0; line-hight: 0;" <div style="display: flex; justify-content: center; margin-top: 24px;">
 	<img src="https://files.catbox.moe/yn1sqv.png" alt="Image" width="40%" style="display: block;"> <img src="https://files.catbox.moe/2hy3uu.png" alt="Image" width="40%" style="display: block;">
-</div> </p>
+</div>
+</p>
 
 <p align="center" style="display: flex; justify-content: center; gap: 40px;">
 	<a href="https://mxchiine.atabook.org" style="text-decoration: underline;">ata</a>
