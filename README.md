@@ -11,7 +11,7 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 40px;">
   <a href="https://mxchiine.atabook.org" style="text-decoration: underline;">ata</a>
-  <a href="https://novasmxchiine.carrd.co" style="text-decoration: underline;">crrd</a>
+  <a href="novasmxchine" style="text-decoration: underline;">crrd</a>
   <a href="https://pxrtofthemxchine.straw.page" style="text-decoration: underline;">straw</a>
 </p>
 
